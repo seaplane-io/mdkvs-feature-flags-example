@@ -3,7 +3,7 @@
 
 # Feature Flags with the Metadata Key-Value Store
 
-This example project is part of the Feature Flags With the Metadata Key-Value Store guide on developers.seaplane.io. It is based on the [Flaskex flask template](https://github.com/anfederico/flaskex). 
+This example project is part of the Feature Flags With the Metadata Key-Value Store guide on developers.seaplane.io. It is based on the [Flaskex flask template](https://github.com/anfederico/flaskex). You can read the full guide on [developers.seaplane.io](https://developers.seaplane.io/guides/mdkvs-feature-flags)
 
 # Installing and Running the Server
 
